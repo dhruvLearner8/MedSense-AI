@@ -1,0 +1,7 @@
+{
+  "name": "MediSense AI - Medical Report Interpreter",
+  "description": "A smart assistant to help you understand your medical reports and blood test results in simple language.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
